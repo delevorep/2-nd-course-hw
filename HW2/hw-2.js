@@ -1,4 +1,2 @@
-let a = 10;
-alert(a);
-a = 20;
-alert(a);
+let FirstIphoneReleaseDate = "29.06.2007";
+alert(`Дата выпуска первого Iphone: ${FirstIphoneReleaseDate}`);
