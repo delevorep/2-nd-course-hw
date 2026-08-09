@@ -1,2 +1,2 @@
-let FirstIphoneReleaseDate = "29.06.2007";
-alert(`Дата выпуска первого Iphone: ${FirstIphoneReleaseDate}`);
+let JSInventor = "Brendan Eich";
+alert(`Создатель языка JavaScript: ${JSInventor}`);
