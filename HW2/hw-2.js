@@ -1,2 +1,7 @@
-let JSInventor = "Brendan Eich";
-alert(`Создатель языка JavaScript: ${JSInventor}`);
+let a = 10;
+let b = 2;
+
+alert(`Сумма: ${a+b}
+Разность: ${a-b}
+Произведение: ${a*b}
+Частное: ${a/b}`);
