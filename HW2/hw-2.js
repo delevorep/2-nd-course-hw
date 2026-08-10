@@ -1,3 +1,6 @@
-let age = prompt ('Сколько вам лет?')
-alert(age);
+const user = {
+  name: 'Administrator',
+  age: 69,
+  isAdmin: true,
+};
 
