@@ -1,6 +1,3 @@
-const user = {
-  name: 'Administrator',
-  age: 69,
-  isAdmin: true,
-};
+let name = String(prompt('Как тебя зовут?'));
+alert (`Привет, ${name}!`);
 
