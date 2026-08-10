@@ -1,7 +1,3 @@
-let a = 10;
-let b = 2;
+let result = 2 ** 5;
 
-alert(`Сумма: ${a+b}
-Разность: ${a-b}
-Произведение: ${a*b}
-Частное: ${a/b}`);
+alert(result);
